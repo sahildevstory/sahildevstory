@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1584" height="396" alt="Add a heading" src="https://github.com/user-attachments/assets/aba24852-8537-4195-9132-2fce59c0e1a6" />
+<!-- <img width="1584" height="396" alt="Add a heading" src="https://github.com/user-attachments/assets/aba24852-8537-4195-9132-2fce59c0e1a6" /> -->
 
 # 👋 Hey, I’m Sahil Khan  
 **React & MERN Developer | Vibe Coder**  
